@@ -73,7 +73,6 @@ We all agreed to participate in the *backend* process so that we could all grasp
 
 - From the UI perspective, ability to see the god by name rather than by id
 
-
 ## Assigning the workload
 
 As this the first major project as a team, assessing the workload inherent has been paramount to our approach; we all took advantage of this opportunity to solidify some of the technical notions and improved them. With regards to more complex tasks, we elected a collective approach, where all of us would centralise the efforts, so we can fully grasp and overcome the technical challenge together. This has been a common practice during the backend development, whereas the frontend allowed for more flexibility. Teamwork has been central to precluding the technical obstacles and allowed a faster and efficient way of finishing the product withing the timeframe provided. As for my input, I was responsible for the landing page, the about page, as well as the pages/functionalities for registering and signing in and the overall styling.
@@ -81,13 +80,17 @@ As this the first major project as a team, assessing the workload inherent has b
 
 ## Known bugs and errors
 
+Any user can write a comment without being logged in.
+
 ## Wins and challenges
+
+Setting up the backend proved trickier initially, however, the momentum built and improved throughout the project. In addition, as this was the first time using git within a team, we had to do it together to avoid merge conflicts. Communication has been crucial to this.
 
 ## Future features
 
+I should have liked to use anime.js for the application, to make it more user-interactive.
+
 ## Key learnings
 
-
-
-
+Working in a team has been the most beneficial element but there were also challenges. Keeping good communication deferred us from running into big technical issues and allowed for a smooth developing process. 
 
