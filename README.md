@@ -61,21 +61,21 @@ We all agreed to participate in the *backend* process so that we could all grasp
 
 ## Functionality
 
-- Register & login
+* Register & login
 
-- Separate page for creating gods, i.e., Deus register
+* Separate page for creating gods, i.e., Deus register
 
-- Ability to search gods, or by categories
+* Ability to search gods, or by categories
 
-- Ability to add, edit or delete comments
+* Ability to add, edit or delete comments
 
-- Scrolling comments on the homepage
+* Scrolling comments on the homepage
 
-- Functionality to populate url depending on the sex, e.g., thea for female, theo for male
+* Functionality to populate url depending on the sex, e.g., thea for female, theo for male
 
-- Modals for the TheoiScore, how to write a useful review
+* Modals for the TheoiScore, how to write a useful review
 
-- From the UI perspective, ability to see the god by name rather than by id
+* From the UI perspective, ability to see the god by name rather than by id
 
 ## Assigning the workload
 
