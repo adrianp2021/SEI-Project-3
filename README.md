@@ -1,5 +1,9 @@
 # General Assembly - SEI-Project-3
 
+## Overview
+
+My third project for the Software Engineering Immersive course, a complex MERN stack app.
+
 ## Project members
 
 - [Richard Knight](https://github.com/RichardKnight88)
@@ -9,19 +13,19 @@ The app has been deployed with Heroku and is available [here](https://whispering
 
 ## Brief
 
-This was a group project where we had to create a Full Stack React app using Node.js, Express and MondoDB.
+* This was a group project where we had to create a Full Stack React app using Node.js, Express and MongoDB.
 
-Consume the data from the API with a frontend built with React
+* Consume the data from the API with a frontend built with React
 
-Use an Express API which would serve data from a Mongo database
+* Use an Express API which would serve data from a Mongo database
 
-Build the frontend and backend from scratch which means multiple relationships between models were created
+* Build the frontend and backend from scratch and create multiple relationships between models
 
-Have an eye-catching design.
+* Have an eye-catching design.
 
-Be deployed online
+* Be deployed online
 
-Timeframe: 9 days
+* Timeframe: 9 days
 
 ## Technologies used
 
@@ -75,20 +79,20 @@ We all agreed to participate in the *backend* process so that we could all grasp
 
 ## Assigning the workload
 
-As this the first major project as a team, assessing the workload inherent has been paramount to our approach; we all took advantage of this opportunity to solidify some of the technical notions and improved them. With regards to more complex tasks, we elected a collective approach, where all of us would centralise the efforts, so we can fully grasp and overcome the technical challenge together. This has been a common practice during the backend development, whereas the frontend allowed for more flexibility. Teamwork has been central to precluding the technical obstacles and allowed a faster and efficient way of finishing the product withing the timeframe provided. As for my input, I was responsible for the landing page, the about page, as well as the pages/functionalities for registering and signing in and the overall styling.
+As this the first major project as a team, assessing the workload inherent has been paramount to our approach; we all took advantage of this opportunity to solidify some of the technical notions and improved them. With regards to more complex tasks, we elected a collective approach, where all of us would centralise the efforts, so we could fully grasp and overcome the technical challenge together. This has been a common practice during the backend development, whereas the frontend allowed for more flexibility. Teamwork has been central to precluding the technical obstacles and allowed a faster and efficient way of finishing the product within the timeframe provided. As for my input, I was responsible for the landing page, the about page, as well as the pages/functionalities for registering and signing in and the overall styling.
 
 
-## Known bugs and errors
+## Bugs
 
 Any user can write a comment without being logged in.
 
 ## Wins and challenges
 
-Setting up the backend proved trickier initially, however, the momentum built and improved throughout the project. In addition, as this was the first time using git within a team, we had to do it together to avoid merge conflicts. Communication has been crucial to this.
+Setting up the backend proved trickier initially, however, the momentum built and improved throughout the project. In addition, as this was the first time using Git within a team, we had to do it together to avoid merge conflicts. Communication has been crucial to this.
 
 ## Future features
 
-I should have liked to use anime.js for the application, to make it more user-interactive.
+I would have liked to use anime.js for the application, to make it more user-interactive.
 
 ## Key learnings
 
