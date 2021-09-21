@@ -11,37 +11,42 @@ My third project for the Software Engineering Immersive course, a complex MERN s
 
 The app has been deployed with Heroku and is available [here](https://whispering-coast-70189.herokuapp.com/). 
 
+
 ## Brief
 
 * This was a group project where we had to create a Full Stack React app using Node.js, Express and MongoDB.
 
-* Consume the data from the API with a frontend built with React
+* Consume the data from the API with a frontend built with React.
 
-* Use an Express API which would serve data from a Mongo database
+* Use an Express API which would serve data from a Mongo database.
 
-* Build the frontend and backend from scratch and create multiple relationships between models
+* Build the frontend and backend from scratch and create multiple relationships between models.
 
 * Have an eye-catching design.
 
-* Be deployed online
+* Be deployed online.
 
-* Timeframe: 9 days
+* Timeframe: 9 days.
 
 ## Technologies used
 
-- Node.js.
-- Express.
-- MongoDB.
-- Mongoose.
-- Git + GitHub.
-- React.
-- JavaScript.
-- Semantic UI React.
-- Axios.
-- Bulma.
-- JWT.
-- Bcrypt.
-- Sass.
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- Git + GitHub
+- React
+- JavaScript
+- Semantic UI React
+- Axios
+- Bulma
+- JWT
+- Bcrypt
+- Sass
+
+## Assigning the workload
+
+As this the first major project as a team, assessing the workload inherent has been paramount to our approach; we all took advantage of this opportunity to solidify some of the technical notions and improved them. With regards to more complex tasks, we elected a collective approach, where all of us would centralise the efforts, so we could fully grasp and overcome the technical challenge together. This has been a common practice during the backend development, whereas the frontend allowed for more flexibility. Teamwork has been central to precluding the technical obstacles and allowed a faster and efficient way of finishing the product within the timeframe provided. As for my input, I was responsible for the landing page, the about page, as well as the pages/functionalities for registering and signing in and the overall styling.
 
 ## Pilis Trust
 
@@ -76,10 +81,6 @@ We all agreed to participate in the *backend* process so that we could all grasp
 * Modals for the TheoiScore, how to write a useful review.
 
 * From the UI perspective, ability to see the god by name rather than by id.
-
-## Assigning the workload
-
-As this the first major project as a team, assessing the workload inherent has been paramount to our approach; we all took advantage of this opportunity to solidify some of the technical notions and improved them. With regards to more complex tasks, we elected a collective approach, where all of us would centralise the efforts, so we could fully grasp and overcome the technical challenge together. This has been a common practice during the backend development, whereas the frontend allowed for more flexibility. Teamwork has been central to precluding the technical obstacles and allowed a faster and efficient way of finishing the product within the timeframe provided. As for my input, I was responsible for the landing page, the about page, as well as the pages/functionalities for registering and signing in and the overall styling.
 
 
 ## Bugs
