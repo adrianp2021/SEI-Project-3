@@ -61,7 +61,7 @@ Following the briefing on the project, we started brainstorming various ideas ab
 
 ![C01921C5-67F4-480B-9854-F5988F17337D_1_105_c](https://user-images.githubusercontent.com/83225952/128699528-48ade69b-d3ee-4855-9438-028441c79269.jpeg)
 
-We all agreed to participate in the *backend* process so that we could all grasp the core of our application. An elected student would code every day, while the other two watched (with a few episodes of pair-coding). Upon completion of the backend, we would then assign the tasks accordingly on the *frontent*.
+We all agreed to participate in the *backend* process so that we could all grasp the core of our application. An elected student would code every day, while the other two watched (with a few episodes of pair-coding). Upon completion of the backend, we would then assign the tasks accordingly on the *frontend*.
 
 
 ## Functionality
